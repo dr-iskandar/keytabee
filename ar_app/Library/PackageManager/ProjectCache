@@ -5,23 +5,110 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638574962330000000
-    m_Hash: 674148673
+      ticks: 638574985450000000
+    m_Hash: 3813658029
   m_LockFileStatus:
     m_FilePath: /Users/admin/Documents/GitHub/keytabee/ar_app/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638574962330000000
-    m_Hash: 3501348712
+      ticks: 638574985450000000
+    m_Hash: 4171521103
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
-  m_LocalFileStatus: []
+  m_LocalFileStatus:
+  - m_FilePath: /Users/admin/Downloads/EasyARSenseUnityPlugin_4/com.easyar.sense-4.6.3+3029.cb846598.tgz/package.json
+    m_PathExists: 0
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 0
+    m_Hash: 0
+  - m_FilePath: /Users/admin/Downloads/EasyARSenseUnityPlugin_4/com.easyar.sense-4.6.3+3029.cb846598.tgz
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 638327080140000000
+    m_Hash: 2411905293
 m_ProjectPath: /Users/admin/Documents/GitHub/keytabee/ar_app/Packages
 m_EditorVersion: 2022.3.37f1 (340ba89e4c23)
 m_ResolvedPackages:
+- packageId: com.easyar.sense@file:/Users/admin/Downloads/EasyARSenseUnityPlugin_4/com.easyar.sense-4.6.3+3029.cb846598.tgz
+  testable: 0
+  isDirectDependency: 1
+  version: 4.6.3+3029.cb846598
+  source: 6
+  resolvedPath: /Users/admin/Documents/GitHub/keytabee/ar_app/Library/PackageCache/com.easyar.sense@5b11bc9be118
+  assetPath: Packages/com.easyar.sense
+  name: com.easyar.sense
+  displayName: EasyAR Sense Unity Plugin
+  author:
+    name: VisionStar Information Technology (Shanghai) Co., Ltd.
+    email: support@easyar.com
+    url: https://www.easyar.com
+  category: 
+  type: 
+  description: "EasyAR Sense Unity Plugin. \r\nEasyAR Sense Unity Plugin is a very
+    thin wrapper build above EasyAR Sense C# API to expose EasyAR Sense features
+    into Unity. \r\nPlease read the documents on [EasyAR website](https://www.easyar.com)
+    for how to use."
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - easyar
+  - augmented
+  - reality
+  - sdk
+  - ar
+  - cloud
+  - spatial
+  - map
+  - xr
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
 - packageId: com.unity.collab-proxy@2.4.4
   testable: 0
   isDirectDependency: 1

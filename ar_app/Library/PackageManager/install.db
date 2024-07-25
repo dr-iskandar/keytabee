@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.easyar.sense": {
+      "tarball": {
+        "hash": "5b11bc9be118",
+        "mtime": 1697111214000,
+        "size": 109199606,
+        "localPath": "/Users/admin/Downloads/EasyARSenseUnityPlugin_4/com.easyar.sense-4.6.3+3029.cb846598.tgz"
+      }
+    }
+  }
+}
