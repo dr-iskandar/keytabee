@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963aaa1ae868b0140b6456db09120440, type: 3}
+  m_Name: EasyAR Settings
+  m_EditorClassIdentifier: 
+  LicenseKey: lDde8ZAkRu2IQglOKEjvI5d8oMpP5b2rKPp2iqQFaNqQFW7HpBh5iutUadqwFWXFsAIjwaIdbMa1F3/othtswb1Ybse8VCGKvBd+3LQERs2oP2mK60chir0fbs2/BWjb80xW0/MUeMa1GmjhtQUvkoorIYqnF3/BsBh52/NMVoqyGWDFpBhk3KhUUITzBmHJpRBi2rwFL5KKVHrBvxJi36JUIYq8F26KjFovxb4SeMS0BS+SilR+zb8FaIaYG2zPtCJ/ybIdZMa2VCGKohNj27RYTsS+A2n6tBViz78fecG+GC+E8wVoxqITI/q0FWLatR9jz/NaL9u0GH7N/zlvwrQVefyjF27DuBhqiv1Ufs2/BWiGggN/zrAVaPyjF27DuBhqiv1Ufs2/BWiGggZs2qITXtiwAmTJvTts2PNaL9u0GH7N/zti3LgZY/yjF27DuBhqiv1Ufs2/BWiGlRNj27QlfcmlH2zEnBd9iv1Ufs2/BWiGkjdJ/KMXbsO4GGqKjFovzakGZNq0ImTFtCV5ybwGL5K/A2HE/VRk250Zbsm9VDfOsBp+zaxadoqzA2PMvRNEzKJUN/PzFWLF/x1o0aUXb820WGza8yshiqcXf8GwGHnb80xWirIZYMWkGGTcqFRQhPMGYcmlEGLavAUvkopUbMa1BGLBtVRQhPMbYsykGmjb80xWiqITY9u0WETFsBFo/KMXbsO4GGqK/VR+zb8FaIaSGmLdtSRoy74RY8GlH2LG81ov27QYfs3/JGjLvgRpwb8RL4TzBWjGohMj57McaMulIn/Jsh1kxrZUIYqiE2PbtFhe3aMQbMu0In/Jsh1kxrZUIYqiE2PbtFhe2LAEfs2CBmzcuBdh5bAGL4TzBWjGohMj5b4CZMe/In/Jsh1kxrZUIYqiE2PbtFhJzb8FaPuhF3nBsBpAyaFUIYqiE2PbtFhO6ZUif8myHWTGtlRQhPMTddi4BGj8uBto+6UXYNjzTGPdvRohirgFQceyF2GK6xBsxKITcISqVG/dvxJhzZgSforrLS/Lvhsjw7QPecmzE2iGsAQv9f1Ue8mjH2zGpQUvkopUbse8G3jGuAJ0ioxaL9i9F3nOvgRg2/NMVoq4GX6KjFovxb4SeMS0BS+SilR+zb8FaIaYG2zPtCJ/ybIdZMa2VCGKohNj27RYTsS+A2n6tBViz78fecG+GC+E8wVoxqITI/q0FWLatR9jz/NaL9u0GH7N/zlvwrQVefyjF27DuBhqiv1Ufs2/BWiGggN/zrAVaPyjF27DuBhqiv1Ufs2/BWiGggZs2qITXtiwAmTJvTts2PNaL9u0GH7N/zti3LgZY/yjF27DuBhqiv1Ufs2/BWiGlRNj27QlfcmlH2zEnBd9iv1Ufs2/BWiGkjdJ/KMXbsO4GGqKjFovzakGZNq0ImTFtCV5ybwGL5K/A2HE/VRk250Zbsm9VDfOsBp+zawrcAEyujQvZUEkgoLGEcvAQ9/hLRpUd/BjDnLogIGRVpFrSg5Lxr3Gd++E13Jfkd/CU1ouEnY6EoUAFRDw9sf9G5vHQD4dpAKV91F4IGUiqwM/2udER1uHzDuizDN3csjvmFvkhecI5vkjYF9aXbFgcZT0/2tectYyeScc1ZS9hW5+bZNyhZ7lAcnhJgH60r5MgkGDa12MZneRvWGdhVebsADqWOlkrjJaMKNJnfeeaIM9eo+rtATaxu7O08PMmS1HhibQRXQM95BLf6IPRT9v+EvXsItRBTlWkRrQK8Consg2Pb4guXBol8LNoxhRzwUYtRTZ82NZCzfTEQFbvtF2Dag=
+  InitializeOnStartup: 1
+  Permissions:
+    CameraDevice: 1
+    VideoRecording: 1
+    Mega: 1
+  GizmoConfig:
+    ImageTarget:
+      EnableImageFile: 1
+      EnableTargetDataFile: 1
+      EnableTarget: 1
+    ObjectTarget:
+      Enable: 1
+  GlobalSpatialMapServiceConfig:
+    APIKey: 
+    APISecret: 
+    SparseSpatialMapAppID: 
+  GlobalCloudRecognizerServiceConfig:
+    ServerAddress: 
+    APIKey: 
+    APISecret: 
+    CloudRecognizerAppID: 
+  GlobalMegaLocalizationServiceConfig:
+    ServerAddress: 
+    APIKey: 
+    APISecret: 
+    AppID: 
+  GenerateXMLDoc: 1
+  ARCoreSDK: 0
+  AREngineSDK: 0
+  DisableARCoreAREngine: 0
+  Verify32bitOnlyARCoreWhenBuild: 1
+  VerifyLicenseWhenBuild: 1
